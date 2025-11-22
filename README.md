@@ -7,7 +7,6 @@
 🧑‍🤝‍🧑 I'm looking to collaborate on AI-driven products, system tools, and productivity-enhancing apps  
 💬 Ask me about C++ optimization, MST heuristics, or how to bring AI into human-centered tools  
 📫 How to reach me: dyst@umich.edu  
-⚡ Fun fact: I switched from Mechanical to Computer Engineering after falling in love with robotics and algorithms
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/dyst)
