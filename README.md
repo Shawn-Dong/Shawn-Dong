@@ -1,12 +1,14 @@
-# Hi👋, I'm Shawn Dong
+# Hi, I'm Shawn Dong
 
 ## About Me
-🎓 I'm a Computer Engineering student at the University of Michigan with a passion for AI, system-level programming, and Computer Architecture
-🔭 I'm currently building a voice-driven journaling app powered by conversational AI  
-🌱 I'm diving deeper into efficient graph algorithms, memory-constrained systems, and open-source LLMs  
-🧑‍🤝‍🧑 I'm looking to collaborate on AI-driven products, system tools, and productivity-enhancing apps  
-💬 Ask me about C++ optimization, MST heuristics, or how to bring AI into human-centered tools  
-📫 How to reach me: dyst@umich.edu  
+
+Computer Engineering @ University of Michigan  
+Incoming MSCS @ Georgia Tech
+
+Systems • Distributed Systems • Networking • AI Infrastructure  
+Building system-level and LLM-powered applications.
+
+Email: dyst@umich.edu
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/dyst)
