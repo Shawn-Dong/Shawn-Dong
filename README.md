@@ -1,19 +1,10 @@
 # Hi, I'm Shawn Dong
 
 ## About Me
-
-Computer Engineering @ University of Michigan  
-Incoming MSCS @ Georgia Tech
-
 Systems • Distributed Systems • Networking • AI Infrastructure  
 Building system-level and LLM-powered applications.
 
 Email: dyst@umich.edu
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/dyst)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 ## Resume
 📄 [View My Resume](https://yourdomain.com/resume.pdf)
