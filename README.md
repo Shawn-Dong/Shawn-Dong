@@ -1,6 +1,4 @@
 # Hi, I'm Shawn Dong
-
-## About Me
 Systems • Distributed Systems • Networking • AI Infrastructure  
 Building system-level and LLM-powered applications.
 
@@ -43,10 +41,6 @@ Email: dyst@umich.edu
 ### [AI Journaling App](https://github.com/yourusername/voice-journal-ai)
 Redefining journaling with a 3-minute guided voice conversation that turns into a personal entry.  
 **Tech:** React, Python, OpenAI, Whisper
-
-### [Efficient MST Solver](https://github.com/yourusername/mst-optimizer)
-A memory-efficient and fast implementation of Prim’s algorithm tailored for large graphs.  
-**Tech:** C++, STL, Graph Theory
 
 ## GitHub Stats
 ![Shawn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
