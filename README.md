@@ -4,7 +4,7 @@
 
 I build the backend that agent products run on — task stores, dispatch, and data pipelines.
 
-M.S. Artificial Intelligence @ Columbia '27 · B.S.E. Computer Engineering @ Michigan '26
+M.S. Artificial Intelligence @ Columbia '27 · B.S.E. Computer Engineering @ Michigan '26  
 SWE Intern @ [NevaMind AI](https://nevamind.ai)
 
 📄 [Resume](https://docs.google.com/document/d/1hLu8w8Q1jHAAUPFDugju0QwB6t9drmys/preview) · ✉️ yanshengtian@gmail.com · [LinkedIn](https://linkedin.com/in/dyst)
